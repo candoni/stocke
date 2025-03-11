@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="45.8704655" lon="11.5325251">
+		<name>Casa Stocke</name>
+		<sym>Building</sym>
+	</wpt>
+	<trk>
+		<name>Asiago - sentiero</name>
+		<desc>Length: 1.983 km (1.232 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cc0000</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="45.8704581" lon="11.5325734"></trkpt>
+			<trkpt lat="45.8712144" lon="11.532324"></trkpt>
+			<trkpt lat="45.8711341" lon="11.5316749"></trkpt>
+			<trkpt lat="45.8716496" lon="11.531235"></trkpt>
+			<trkpt lat="45.8726356" lon="11.5307522"></trkpt>
+			<trkpt lat="45.8728373" lon="11.5304732"></trkpt>
+			<trkpt lat="45.8730315" lon="11.5299582"></trkpt>
+			<trkpt lat="45.8731567" lon="11.5297061"></trkpt>
+			<trkpt lat="45.8733303" lon="11.529513"></trkpt>
+			<trkpt lat="45.8739429" lon="11.5287244"></trkpt>
+			<trkpt lat="45.8744695" lon="11.5282175"></trkpt>
+			<trkpt lat="45.8749363" lon="11.5275013"></trkpt>
+			<trkpt lat="45.8753173" lon="11.5267503"></trkpt>
+			<trkpt lat="45.8756758" lon="11.5253127"></trkpt>
+			<trkpt lat="45.875293" lon="11.5231106"></trkpt>
+			<trkpt lat="45.8753658" lon="11.523065"></trkpt>
+			<trkpt lat="45.8754816" lon="11.5229309"></trkpt>
+			<trkpt lat="45.8756086" lon="11.5229416"></trkpt>
+			<trkpt lat="45.8758327" lon="11.5231186"></trkpt>
+			<trkpt lat="45.876744" lon="11.5236604"></trkpt>
+			<trkpt lat="45.8766693" lon="11.5231347"></trkpt>
+			<trkpt lat="45.8767253" lon="11.5223542"></trkpt>
+			<trkpt lat="45.8768037" lon="11.5217721"></trkpt>
+			<trkpt lat="45.8767795" lon="11.5213001"></trkpt>
+			<trkpt lat="45.8766842" lon="11.5208924"></trkpt>
+			<trkpt lat="45.876617" lon="11.5198302"></trkpt>
+			<trkpt lat="45.8763089" lon="11.5189317"></trkpt>
+			<trkpt lat="45.8759074" lon="11.5179956"></trkpt>
+			<trkpt lat="45.8754517" lon="11.5159571"></trkpt>
+			<trkpt lat="45.8750708" lon="11.5153563"></trkpt>
+			<trkpt lat="45.874645" lon="11.5147877"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

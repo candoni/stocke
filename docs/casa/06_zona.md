@@ -1,48 +1,56 @@
-# 🌍 Informazioni sulla zona
+# Informazioni sulla zona
 
-La Casa Stocke si trova sull’Altopiano di Asiago, un’area ricca di natura, cultura e tradizioni. Qui troverete alcune informazioni utili per il vostro soggiorno.
+## 🏫 Centro di Asiago
 
-## 🏪 Negozi e servizi utili
+### Strada asfaltata
 
-- **Supermercato Despar a Asiago:**
-  - **Eurospar Asiago**
-    - **Indirizzo:** Via Rendola, 38, 36012 Asiago (VI)
-    - **Telefono:** 0424 463849
-    - **Orari di apertura:**
-      - Lunedì - Sabato: 08:00 - 19:30
-      - Domenica: 08:30 - 19:00
-    - **Sito web:** [despar.it](https://www.despar.it/it/punto-vendita-eurospar/109/asiago/)
+È possibile raggiungere il centro di Asiago a piedi in circa 15-20 minuti (1,7 km) percorrendo la strada asfaltata che parte da via Belvedere, scendendo a sinistra.
 
-- **Farmacie a Asiago:**
-  - **Farmacia Chimica Bortoli**
-    - **Indirizzo:** Piazza II Risorgimento, 23, 36012 Asiago (VI)
-    - **Telefono:** 0424 462112
-    - **Orari di apertura:**
-      - Lunedì - Sabato: 08:45 - 12:30, 15:45 - 19:15
-      - Domenica: Chiuso
+### Sentiero
 
-  - **Farmacia Dr.Max**
-    - **Indirizzo:** Viale Giacomo Matteotti, 44, 36012 Asiago (VI)
-    - **Telefono:** 0424 462072
-    - **Orari di apertura:**
-      - Lunedì - Sabato: 08:45 - 12:30, 15:45 - 19:15
-      - Domenica: Chiuso
+Alternativamente è possibile raggiungere il centro a piedi seguendo il sentiero 805 che parte dalla fine di via Belvedere, girando a sinistra per pochi metri e poi a destra per la carrareccia che scende tra i prati fino all'Ossario (20-25 minuti).
 
-- **Farmacia a Gallio:**
-  - **Farmacia di Gallio**
-    - **Indirizzo:** Via IV Novembre, 34, 36032 Gallio (VI)
-    - **Telefono:** 0424 447919
-    - **Orari di apertura:**
-      - Lunedì - Sabato: 08:30 - 12:30, 15:30 - 19:30
-      - Domenica: Chiuso
-    - **Sito web:** [7comunionline.it](https://www.7comunionline.it/farmacie-asiago-7-comuni/)
+![Sentiero Asiago](../assets/sentiero-asiago.png)
+
+## 🛒 Supermercati
+
+### Eurospar - Asiago
+
+- **Indirizzo:** Via Rendola 38, Asiago
+- **Telefono:** 0424 463849
+- **Orari di apertura:**
+  - Lunedì - Sabato: 08:00 - 19:30
+  - Domenica: 08:30 - 19:00
+
+È possibile raggiungere il supermercato a piedi per un sentiero che attraversa i prati, in circa 15 minuti (1,4 km).
+Usciti da via Belvedere, girare a destra. Dopo la chiesetta, prendere la stradina bianca a sinistra tra le case.
+Attenzione: ritorno in salita!
+
+### A&O - Gallio
+
+- **Indirizzo:** Via G. Prestinari 32, Gallio
+- **Telefono:** 0424 445649
+
+## ⚕️ Farmacie
+
+### Farmacia Chimica Bortoli - Asiago
+
+- **Indirizzo:** Piazza II Risorgimento 23, Asiago
+- **Telefono:** 0424 462112
+
+### Farmacia Dr.Max - Asiago
+
+- **Indirizzo:** Viale G. Matteotti 44, Asiago
+- **Telefono:** 0424 462072
+
+### Farmacia di Gallio
+
+- **Indirizzo:** Via G. Prestinari 32, Gallio
+- **Telefono:** 0424 447919
 
 ## ℹ️ Ufficio Turistico di Asiago
 
-- **Indirizzo:** Piazza Giovanni Carli, 56, 36012 Asiago (VI)
+- **Indirizzo:** Piazza Giovanni Carli 56, Asiago
 - **Telefono:** 0424 462221
 - **Email:** <info@asiago.to>
-- **Orari di apertura:**
-  - Lunedì - Domenica: 09:30 - 12:30, 15:30 - 18:30
-- **Sito web:** [asiago.to](https://www.asiago.to/)
-
+- **Sito web:** [www.asiago.to](https://www.asiago.to/)

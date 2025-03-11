@@ -3,7 +3,7 @@
 ## 🛏️ Dotazioni e forniture disponibili
 
 - La casa è fornita di lenzuola e asciugamani puliti per ogni ospite.
-- Sono disponibili coperte extra nell’armadio della camera da letto.
+- Sono disponibili coperte extra nell’armadio delle camera da letto.
 - In bagno troverete sapone e carta igienica sufficiente per i primi giorni.
 - In cucina sono disponibili utensili, stoviglie e un set base di spezie e condimenti.
 - Prodotti per la pulizia e detersivi sono riposti sotto il lavello della cucina.
@@ -21,7 +21,7 @@
 - L’accesso alla casa avviene tramite [chiave fisica/codice elettronico].
 - In caso di smarrimento della chiave, contattare il proprietario.
 
-## 🔥 Uso del camino (se presente)
+## 🔥 Uso del camino
 
 - Per accendere il camino, utilizzare solo legna secca.
 - Non bruciare materiali non idonei (plastica, carta stampata, etc.).
