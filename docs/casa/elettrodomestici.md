@@ -1,0 +1,1 @@
+# Istruzioni per gli elettrodomestici

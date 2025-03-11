@@ -1,0 +1,23 @@
+# 🔹 Esclude file di sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# 🔹 Esclude file di backup generati da editor di testo
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# 🔹 Esclude file generati (PDF, HTML, Word)
+output/
+*.pdf
+*.html
+*.docx
+
+# 🔹 Esclude cartelle di cache/build (utile se usi MkDocs o Jekyll)
+site/
+.cache/
+
+# 🔹 Esclude configurazioni locali di VS Code e altri editor
+.vscode/
+.idea/

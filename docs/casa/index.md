@@ -1,0 +1,1 @@
+# Manuale della Casa Stocke
