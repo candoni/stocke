@@ -1,1 +1,0 @@
-# Regole della casa
