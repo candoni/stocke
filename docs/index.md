@@ -1,4 +1,5 @@
 # Benvenuto nella Casa Stocke
 
-## 📖 Sezioni disponibili:
+## 📖 Sezioni disponibili
+
 - [🏡 Manuale della Casa](casa/)
